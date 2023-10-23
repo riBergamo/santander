@@ -4,7 +4,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "feature")
+@Table(name = "features")
 public class Feature extends BaseItem {
 
 }

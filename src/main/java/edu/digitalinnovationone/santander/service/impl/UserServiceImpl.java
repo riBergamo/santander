@@ -3,9 +3,11 @@ package edu.digitalinnovationone.santander.service.impl;
 import edu.digitalinnovationone.santander.model.User;
 import edu.digitalinnovationone.santander.repository.UserRepository;
 import edu.digitalinnovationone.santander.service.UserService;
+import org.springframework.stereotype.Service;
 
 import java.util.NoSuchElementException;
 
+@Service
 public class UserServiceImpl implements UserService {
 
     private final UserRepository userRepository;
