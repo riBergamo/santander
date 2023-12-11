@@ -1,5 +1,5 @@
 # santander
-Desafio DIO - "API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway "
+Desafio DIO - "API REST Usando Spring Boot 3, Java 17 e Railway "
 
 ### Diagrama de Classes (Domínio da API)
 
